@@ -25,3 +25,5 @@ for i in list_dir:
     fill = "." * len_add
     print (i, fill, type)
     time.sleep(.3)
+
+1 commit_1
