@@ -26,7 +26,5 @@ for i in list_dir:
     print (i, fill, type)
     time.sleep(.3)
 
-
-#2 commit_2
-#Новые строки
-#Новые строки
+#commit dev1
+#commit dev2
