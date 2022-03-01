@@ -1,3 +1,5 @@
+"main1 commit
+
 import os
 import time
 
@@ -27,6 +29,3 @@ for i in list_dir:
     time.sleep(.3)
 
 
-#2 commit_2
-#Новые строки
-#Новые строки
